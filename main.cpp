@@ -16,7 +16,7 @@ using namespace std;
 
 int main()
 {
-	io HeartRate person("Mohammed", "Hamada", "Male", 27, 1, 2002, 1.68, 99);
+	io HeartRate person("Mohammed", "Hamada", "Male", 27, 1, 2002, 1.68, 78);
 	person.print();
 	return 0;
 }
